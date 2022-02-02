@@ -252,6 +252,11 @@ form-control:focus {
         line-height: normal;
     }
 
+    h2 {
+        font-size: 40px;
+        line-height: normal;
+    }
+
     .footer-menu {
         display: block !important;
         padding: 20px 0 !important;
@@ -259,12 +264,6 @@ form-control:focus {
     }
 }
 
-@media (max-width: 575.98px) {
-    h2 {
-        font-size: 40px;
-        line-height: normal;
-    }
-}
 
 
 @media (min-width: 576px) and (max-width: 767.98px) {}
